@@ -1,0 +1,37 @@
+{
+  "name": "do-not-touch",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.14.0",
+    "jest-expo": "~27.0.0",
+    "react-test-renderer": "16.3.1",
+    "@types/expo": "^27.0.8",
+    "@types/linear-gradient": "^1.0.0",
+    "@types/react-navigation": "^2.0.17",
+    "@types/react": "^16.4.11",
+    "@types/react-native": "^0.56.12",
+    "react-native-typescript-transformer": "^1.2.10",
+    "typescript": "^3.0.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "SET PORT=3000 && SET REACT_NATIVE_PACKAGER_HOSTNAME=localhost && react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^27.0.1",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "native-base": "^2.8.0",
+    "react-native-radial-gradient": "^1.0.4",
+    "react-native-svg": "^6.5.2",
+    "react-navigation": "^2.12.1"
+  }
+}
