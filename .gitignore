@@ -27,3 +27,6 @@ TODO*
 
 ios/
 android/
+
+.vscode
+*.code-workspace
