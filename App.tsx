@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeModules } from 'react-native';
+import { NativeModules, View, Image } from 'react-native';
 
 import { Root, Container } from 'native-base';
 
@@ -9,12 +9,13 @@ import LevelEnum from './src/enumerations/level';
 import LanguageEnum from './src/enumerations/language';
 
 import FontContext from './src/contexts/font';
-import { Font } from 'expo';
+import { Font, Asset, AppLoading } from 'expo';
 
-const doubleFeature = require('./src/assets/fonts/DoubleFeature.ttf');
-const robotoMedium = require('native-base/Fonts/Roboto_medium.ttf');
-const leiraLite = require('./src/assets/fonts/LeiraLite.ttf');
+const doubleFeature = require('./src/assets/fonts/DoubleFeature.ttf'); // heading
+const robotoMedium = require('native-base/Fonts/Roboto_medium.ttf'); // used by Toast
+const leiraLite = require('./src/assets/fonts/LeiraLite.ttf'); // 'put your finger' message
 
+const icon = require('./assets/images/icon.png');
 export interface AppScreenProps {
   level: string;
   language: LanguageEnum.Language;
@@ -25,6 +26,7 @@ interface AppProps { }
 interface AppState {
   level: string;
   fontsLoaded: boolean;
+  imageLoaded: boolean;
 }
 
 export default class App extends React.Component<AppProps, AppState> {
@@ -34,25 +36,26 @@ export default class App extends React.Component<AppProps, AppState> {
     this.state = {
       level: String(LevelEnum.Level.easy),
       fontsLoaded: false,
+      imageLoaded: false
     };
 
     this.navigationChange = this.navigationChange.bind(this);
   }
 
   async componentDidMount() {
-    try {
-      await Font.loadAsync({
-        DoubleFeature: doubleFeature, // heading
-        Roboto_medium: robotoMedium, // used by Toast
-        LeiraLite: leiraLite // 'put your finger' message
-      });
+    // try {
+    //   await Font.loadAsync({
+    //     DoubleFeature: doubleFeature, // heading
+    //     Roboto_medium: robotoMedium, // used by Toast
+    //     LeiraLite: leiraLite // 'put your finger' message
+    //   });
 
-      this.setState({
-        fontsLoaded: true,
-      });
-    } catch (err) {
-      console.warn('Font not loaded');
-    }
+    //   this.setState({
+    //     fontsLoaded: true,
+    //   });
+    // } catch (err) {
+    //   console.warn('Font not loaded');
+    // }
   }
 
   get locale(): LanguageEnum.Language {
@@ -72,7 +75,37 @@ export default class App extends React.Component<AppProps, AppState> {
     }
   }
 
+  async _cacheImageAsync() {
+    return Asset.fromModule(icon).downloadAsync();
+  }
+
+  async _cacheFontsAsync() {
+    const fonts = [doubleFeature, leiraLite, robotoMedium].map(font => {
+      return Font.loadAsync(font)
+    });
+    await Promise.all(fonts);
+    this.setState({ fontsLoaded: true });
+  }
+
   render() {
+    if (!this.state.imageLoaded) {
+      return <AppLoading
+        startAsync={this._cacheImageAsync}
+        onFinish={() => { this.setState({ imageLoaded: true }) }}
+        onError={console.warn}
+      />
+    }
+
+    if (!this.state.fontsLoaded) {
+      return (
+        <View style={{ flex: 1 }}>
+          <Image
+            source={icon}
+          />
+        </View>
+      )
+    }
+
     return (
       // Root is needed to display Toasts in application
       <Root>
