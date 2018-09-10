@@ -25,7 +25,7 @@
     "orientation": "portrait",
     "githubUrl": "https://github.com/ziomecka/keep-finger-away.git",
     "splash": {
-      "backgroundColor": "ffffff",
+      "backgroundColor": "#ffffff",
       "resizeMode": "contain",
       "image": "./src/assets/images/icon.png"
     }
