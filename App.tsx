@@ -35,12 +35,8 @@ export default class App extends React.Component<AppProps, AppState> {
 
     this.state = {
       level: String(LevelEnum.Level.easy),
-<<<<<<< HEAD
       fontsLoaded: false,
       imageLoaded: false
-=======
-      fontsLoaded: false
->>>>>>> e66ba07ae43c58ff1aadff8b8264bd7bdf16282a
     };
 
     this.navigationChange = this.navigationChange.bind(this);
@@ -92,29 +88,24 @@ export default class App extends React.Component<AppProps, AppState> {
   }
 
   render() {
-<<<<<<< HEAD
     if (!this.state.imageLoaded) {
-      return <AppLoading
-        startAsync={this._cacheImageAsync}
-        onFinish={() => { this.setState({ imageLoaded: true }) }}
-        onError={console.warn}
-      />
+      return (
+        <AppLoading
+          startAsync={this._cacheImageAsync}
+          onFinish={() => { this.setState({ imageLoaded: true }) }}
+          onError={console.warn}
+        />
+      );
     }
 
-=======
->>>>>>> e66ba07ae43c58ff1aadff8b8264bd7bdf16282a
     if (!this.state.fontsLoaded) {
       return (
         <View style={{ flex: 1 }}>
           <Image
-<<<<<<< HEAD
             source={icon}
-=======
-            source={require('./assets/images/icon.png')}
->>>>>>> e66ba07ae43c58ff1aadff8b8264bd7bdf16282a
           />
         </View>
-      )
+      );
     }
 
     return (
