@@ -89,11 +89,13 @@ export default class App extends React.Component<AppProps, AppState> {
 
   render() {
     if (!this.state.imageLoaded) {
-      return <AppLoading
-        startAsync={this._cacheImageAsync}
-        onFinish={() => { this.setState({ imageLoaded: true }) }}
-        onError={console.warn}
-      />
+      return (
+        <AppLoading
+          startAsync={this._cacheImageAsync}
+          onFinish={() => { this.setState({ imageLoaded: true }) }}
+          onError={console.warn}
+        />
+      );
     }
 
     if (!this.state.fontsLoaded) {
@@ -103,7 +105,7 @@ export default class App extends React.Component<AppProps, AppState> {
             source={icon}
           />
         </View>
-      )
+      );
     }
 
     return (
