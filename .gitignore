@@ -25,9 +25,6 @@ srcimages
 
 TODO*
 
-ios/
-android/
-
 .vscode
 *.code-workspace
 my-app-key.keystore
