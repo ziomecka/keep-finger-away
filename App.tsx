@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeModules } from 'react-native';
+import { NativeModules, View, Image } from 'react-native';
 
 import { Root, Container } from 'native-base';
 
@@ -33,7 +33,7 @@ export default class App extends React.Component<AppProps, AppState> {
 
     this.state = {
       level: String(LevelEnum.Level.easy),
-      fontsLoaded: false,
+      fontsLoaded: false
     };
 
     this.navigationChange = this.navigationChange.bind(this);
@@ -73,6 +73,16 @@ export default class App extends React.Component<AppProps, AppState> {
   }
 
   render() {
+    if (!this.state.fontsLoaded) {
+      return (
+        <View style={{ flex: 1 }}>
+          <Image
+            source={require('./assets/images/icon.png')}
+          />
+        </View>
+      )
+    }
+
     return (
       // Root is needed to display Toasts in application
       <Root>
