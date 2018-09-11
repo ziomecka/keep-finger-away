@@ -1,6 +1,4 @@
 {
-  "name": "keepFingerAway",
-  "displayName": "keepFingerAway",
   "expo": {
     "name": "Keep finger away",
     "slug": "keep-finger-away",
@@ -11,10 +9,10 @@
       "config": "rn-cli.config.js"
     },
     "android": {
-      "package": "do.not.touch.game",
+      "package": "keep.finger.away.game",
       "versionCode": 1,
       "icon": "./src/assets/images/icon.png",
-      "adaptiveIcon" : {
+      "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/icon.png"
       }
     },
@@ -28,6 +26,11 @@
       "backgroundColor": "#ffffff",
       "resizeMode": "contain",
       "image": "./src/assets/images/icon.png"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "expdb74791ce30449c89a1f5ad6c59eb3e0",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.5.3-sdk27.0.0-408c8d77-8d1f-4784-b7b4-93826250663a.tar.gz"
     }
   }
 }
