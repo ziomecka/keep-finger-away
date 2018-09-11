@@ -48,7 +48,8 @@ export default class GuillotineScenario extends Component<
   private bloodSize: [number, number]; // width, height
   private animFallDuration: number = settings.animFallDuration;
   private tops: any = require('./Blade/top').default;
-  private timeout: NodeJS.Timer | number | undefined;
+  private timeoutTouchable: NodeJS.Timer | number | undefined;
+  private timeoutBlade: NodeJS.Timer | number | undefined;
 
   constructor(props: GuillotineScenarioProps) {
     super(props);
@@ -89,8 +90,23 @@ export default class GuillotineScenario extends Component<
     this.setState(initialState);
     initialState = null;
 
-    clearTimeout(this.timeout as number);
-    this.timeout = undefined;
+    this.clearTimeoutTouchable();
+    this.clearTimeoutBlade();
+  }
+
+  clearTimeout(timeout: NodeJS.Timer | number | undefined) {
+    if (typeof timeout === 'number') {
+      this.clearTimeout(timeout);
+      timeout = undefined;
+    }
+  }
+
+  clearTimeoutTouchable() {
+    this.clearTimeout(this.timeoutTouchable as number);
+  }
+
+  clearTimeoutBlade() {
+    this.clearTimeout(this.timeoutBlade as number);
   }
 
   /** To ensure measered correctly
@@ -99,7 +115,10 @@ export default class GuillotineScenario extends Component<
    */
   async componentDidMount() {
     /** Measured after rendered */
-    this.timeout = setTimeout(this.measureTouchable, 50);
+    this.timeoutTouchable = setTimeout(() => {
+      this.measureTouchable();
+      this.clearTimeoutTouchable();
+    }, 50);
   }
 
   componentDidUpdate(prevProps: GuillotineScenarioProps, prevState: GuillotineScenarioState) {
