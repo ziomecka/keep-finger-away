@@ -75,8 +75,8 @@ export default class GuillotineScenario extends Component<
     return {
       bladeAnimation: this.bladeTop,
       element: {
-        blade: { x: undefined, y: undefined },
-        touchable: { x: undefined, y: undefined }
+        blade: { pageY: undefined },
+        touchable: {pageY: undefined }
       }
     };
   }
@@ -118,6 +118,11 @@ export default class GuillotineScenario extends Component<
     this.timeoutTouchable = setTimeout(() => {
       this.measureTouchable();
       this.clearTimeoutTouchable();
+    }, 50);
+    
+    this.timeoutBlade = setTimeout(() => {
+      this.measureBlade();
+      this.clearTimeoutBlade();
     }, 50);
   }
 
