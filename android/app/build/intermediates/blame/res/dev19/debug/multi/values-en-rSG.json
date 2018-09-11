@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\incremental\\mergeDev19DebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\Kasia\\.android\\build-cache\\872f1ada14d8c8361f0f5102cf2c787ebd8fe6f5\\output\\res\\values-en-rSG\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Sep 11 15:43:47 CEST 2018
+base.0=C\:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run_077a7f00237288c59660515637f8cf9957ced8d1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f0397a66091b07aa01aefdab9646ac164d11a8fb\\classes.dex
+base.1=C\:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f0397a66091b07aa01aefdab9646ac164d11a8fb
+file.0=C\:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\transforms\\dex\\dev19\\debug\\folders\\1000\\10000\\instant-run_077a7f00237288c59660515637f8cf9957ced8d1\\classes.dex

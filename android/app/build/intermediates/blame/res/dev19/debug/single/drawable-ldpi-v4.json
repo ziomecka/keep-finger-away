@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\\output\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\\output\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\\output\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\\output\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\\output\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\\output\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    }
+]

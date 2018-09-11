@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\global_tracker.xml",
+        "source": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\generated\\res\\google-services\\dev19\\debug\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_material.xml",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\92897e0e8055bbbd04ec17e17a127fa64d413444\\output\\res\\xml\\stub_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_classic.xml",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\92897e0e8055bbbd04ec17e17a127fa64d413444\\output\\res\\xml\\stub_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\6807819bc277b37f43d8e214a1164b3e1b07b19b\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kasia\\Documents\\Prywatne\\Projekty\\keep-finger-away\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Kasia\\.android\\build-cache\\92897e0e8055bbbd04ec17e17a127fa64d413444\\output\\res\\xml\\provider_paths.xml"
+    }
+]
