@@ -11,9 +11,9 @@ import LanguageEnum from './src/enumerations/language';
 import FontContext from './src/contexts/font';
 import { Font, AppLoading } from 'expo';
 
-const doubleFeature = require('./src/assets/fonts/DoubleFeature.ttf'); // heading
-const robotoMedium = require('native-base/Fonts/Roboto_medium.ttf'); // used by Toast
-const leiraLite = require('./src/assets/fonts/LeiraLite.ttf'); // 'put your finger' message
+const DoubleFeature = require('./src/assets/fonts/DoubleFeature.ttf'); // heading
+const Roboto_medium = require('native-base/Fonts/Roboto_medium.ttf'); // used by Toast
+const LeiraLite = require('./src/assets/fonts/LeiraLite.ttf'); // 'put your finger' message
 
 export interface AppScreenProps {
   level: string;
@@ -54,7 +54,7 @@ export default class App extends React.Component<AppProps, AppState> {
   }
 
   async _cacheFontsAsync() {
-    return Font.loadAsync({ doubleFeature, leiraLite, robotoMedium });
+    return Font.loadAsync({ DoubleFeature, LeiraLite, Roboto_medium });
   }
 
   render() {
