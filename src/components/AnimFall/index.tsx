@@ -8,7 +8,7 @@ import GameStateEnum from '../../enumerations/game.state';
 export interface AnimFallProps {
   top: [number, number]; // top, down position of the falling item
   duration: number;
-  measure: Function;
+  // measure: Function;
   gameState: GameStateEnum.GameState;
   prevGameState: GameStateEnum.GameState | undefined;
   endGame?: () => void;
@@ -37,7 +37,7 @@ export default class AnimFall extends Component<
   private defaultStyle: AnimFallStyle = defaultStyle;
   private style: AnimFallStyle;
   private listener: null | Function = () => { };
-  private timeout: NodeJS.Timer | number | null = null;
+  // private timeout: NodeJS.Timer | number | null = null;
 
   constructor(props: AnimFallProps) {
     super(props);
@@ -57,14 +57,14 @@ export default class AnimFall extends Component<
     this.listener = this.state.anim.addListener(this.eventListener);
   }
 
-  componentDidMount() {
-    this.timeout = setTimeout(async() => {
-      let result = await this.props.measure();
-      this.setState({
-        bladePageY: result
-      });
-    }, 50);
-  }
+  // componentDidMount() {
+  //   this.timeout = setTimeout(async() => {
+  //     let result = await this.props.measure();
+  //     this.setState({
+  //       bladePageY: result
+  //     });
+  //   }, 50);
+  // }
 
   componentWillUnmount() {
     this.reset();
@@ -98,13 +98,13 @@ export default class AnimFall extends Component<
       pageY: undefined,
       bladePageY: undefined
     });
-    this.clearTimeout();
+    // this.clearTimeout();
   }
 
-  clearTimeout() {
-    clearTimeout(this.timeout as number);
-    this.timeout = null;
-  }
+  // clearTimeout() {
+  //   clearTimeout(this.timeout as number);
+  //   this.timeout = null;
+  // }
 
   componentDidUpdate(prevProps: AnimFallProps) {
     const { gameState, prevGameState } = this.props;
