@@ -3,12 +3,597 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\e7df01b2496ba567ea82c06fdcabf3b48bf641ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_21e0c0d92c439f559e533273e1951004d8725c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\05320db76679fafd58de5b11f057f329af3c1fae\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7721fdd1d59c4b8ae136c087b7590ec69061d97f">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_0bd171b23442f8b1f31df20add7c48a033c56dd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\05320db76679fafd58de5b11f057f329af3c1fae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67b6fa134bb2e2163e293f7ae9b898b985979515">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_00c3efe2606be7d6d0ad215d9cd7aa7e967c5364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\0d2231638fcfd2153e2375e6fd0af8d463acad32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_5a258e450cc4652df01f20f67dbe4ab6e5c3a879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\99a1c64ddcb6abe8792b5e58b501c22f9c78552e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_82074c5393ef3117bde756590d5dd38060554da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79b01f1eace6ce22c6ffd67000bd6b5c5d2477a9">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_d81de10619fa071aaada000480ade08f2f0c8464\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\4f53d8a6aff80ef867e2ebf1bb01dd907ab4cda8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_da96a49f34f247344c81c447f1291cfddbc8c5db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae2154348a4c38a18e8d1042cf445faea4647d0">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_974967342f8d503133d65e27a3fc7f5ad33027ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\6807819bc277b37f43d8e214a1164b3e1b07b19b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00bffcece869fcc14f8c3fe523a11c6c53356b44">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_7f5b63f6d04a15821c125623442f19d40b4c8fa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\cf7e4bb98eaf57c8ee7e9700bba342a2da653208\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_cbfe8f3ee6a9473f2515469fc3abcbb5242eb58c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\a0952da7a134106dc20bd9ee60618a23526cca4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_e2a23e4904c2df6fb08a123b6136e5bbe70af051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\35b68a4b124ebf37c3eed1899ac603238e260fd3\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43579bbbc605c8815aa55ad85d856fb5588250d2">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_21fd527466ac3a3d075a5b663cdb46306687257e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_6b561b570328c8bd1773822b86e016dcac81a62c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\3eaff41682e635507b254c46ecbc15f21bb41fd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_2ee765be86142c429f02cc2e55ba0109f2908daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\b80897957f4e974c8ce6e5a37e1134a6bb213b42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c83a644dfc8545d77ed076721762fc4eb4092d81">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_a4fc1e144100f4cf1b19cabd6575fbad4f6f9a5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\370f0143733942d55f859370c94bf9c83fee4b86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_46e9b10c2ad02b5635d1c0f8116008b10c1556fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\7b0437d767c56fd2a2e1b5c99b2130fcd2ad6179\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec224ad624f39212bacaf5903d989fe066166e7a">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_05f58e31541e849f990158a2fc9ac9761d3b6c2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\3c59e6b6ea213152145856e30322b31bfa591126\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3c2768fad546f8332820c31f1949d9821577b50c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\748f16410073cf46c5b4a00e837796943a349ae1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_bdf35d365e4bf12980d08c2a53f962316eed4aba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\18ad7391b198c87a992d7df17a25a322f33bb525\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_6566ba9c1cc8df672d409eb2d9e0934154f70ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\97893eebef9081434015cc0dd0762da99d06fdd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_ed58c2f90fbf97caef38f10f91490b7684e95484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\096df4ff13c4c5a7060e6503c3f0da971fbf2b70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_7321a95534dca1712e90ced9caad6c6129b047d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\4a65067ce9912672799b58046fd04dcd30b201a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_a74e806020ae45083233dab08c1939908d6bd8de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\1982c4b4161d4e34a270cad64e24c11b781e1b93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_635bc0269d5ef0b5de21cd40787a1f077f38e000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\1ecc53652c327377453ad2352b2ce94c961ab976\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_b8415a97a56a193c6347ac5b65ccc481c099ef89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\d3547e4f957b24b20146e578498bdb2ed6216463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53dc9d74b0ac22d201549cd806780597d9679e9a">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_209d7976873ec79ee0c432e6eaf49929e25861c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\35b68a4b124ebf37c3eed1899ac603238e260fd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a315c4dce1b163f2ddf71bab62f3b56eb05c6a15">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_a0255125e88fded724ed2436432ebed82e5f4b0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\4e054ea272e4ffaed381c202ff0b3fb276f60dcd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_634ed883ca93c461da130288c3bd0b0a8a0d51cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\1d295020cf0806e01bcab5d0cf3a02185fcbffbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae335c9696bc1513f7e3bb96a731b722712d7a63">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_c35be84e3ed5418b9bcd1a279699bb3fc57adf06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\342de9f80733c2bd3c181a4b7abb201f3b25f9f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_66e6e2c87951a5896e1bc3fcad0349fa36013640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\8a32b33152f23c22481dd84bf52ef8a1a0bd6970\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_13f444384ad8cb8223b964ea2dd598ae03d6b66d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\incremental-runtime-classes\dev19\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10000\instant-run_077a7f00237288c59660515637f8cf9957ced8d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\b6f244bc16fb74f3ea1016de1e6d5ffbc8614ae5\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_a426e277eb6cfe1203c8dd14edc763468b497276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="64cd9f68288a814c311fe2723b68bd91aa241c7b">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3b22d6afda017ee2f54886be30a81bc2df2f5d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\f98f549ddd8669db0ab09b2d8059126ff182fc47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2f9209ff0d33539df6866d019181ecd1ecd047">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_aeaea9d62438e6d108adbcb934c525378cf6999d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\f78efd8365ec0546416e8fb49f0cd65c60f1521f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_c76376e3645b8ecc58d3e126de676d977c74bcca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\b8beafb4d46f0c55ff0ed42fe282bb365864c1c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_8741e4ee9c38e639817b3c7f9c468b02be7efade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\dbfc5634a7d7703b403fd0804398c19e2ce34ab0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_6baeca572560c03f06ceed27b2c25452f589ca75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\62937a44300921704916214d5f36bf3a00d3157a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a37372fca7123a593202ba76a7f98fbd691f05">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_91ab6a068116f705d5993927da10e3a5f306db9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\b595133ddc31a58b288025751d3fc5fcb0515444\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03530f261b6f66dbcae414f12c732bd943f5ba53">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_2ac62fefddf57951ebea6ca14c7ab7b943afe199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\c5c7fec45dfed3f7ce4794e20965ae504758f39d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_00a56e088c7c064f55651aa431e4eb51390eaac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\f984b0406f7314b388eaf0d647a6bcafdfff576e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_383260194ff26ab93c95a955e7ea271d7b68e602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\0cea272748bc0c1c75558dba29be2e2295b62a54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_f9cbcaa394f0faa477d6c5f7071610a23778e162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\4ecd65af6d3002399049d6408834cd4fe4a010ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_db719f1e50827a89650b05932cff19768fd9fb09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\d8b20c5e4c4c553e9015f3ac9c800a2d4c392061\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_6a1af14c41541c07535f071fc6d0ece578d3262f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\c49f339d5e68f3277ff06ec8872347c01a460f7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3a101540fce299139b4364e30e1d5a84feb66318\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\1ecc53652c327377453ad2352b2ce94c961ab976\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_f35ae50da1f52bd5176861c2a8085f9a84098290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_c19b8d4dbc35733ec23269981765b22eff831ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\a5c95a3419c8faff454e90623d4d0a89f22d97c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af69623378285932372eb7b3b8ff0ef66fa42b93">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_9f10a853fd037bcbf979a6a24b1ec4037754c8de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\8a32b33152f23c22481dd84bf52ef8a1a0bd6970\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_310a21920e8281b507d5c92bd84c7642abef7027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\0159a9b6e2d61787e1561cdc50adafcdd13f956a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_277dad4861440e29977283d0b388ccab51a96cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7bf36963372211d8b9e000939020b1c3242234e">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_e1d3639ffaf88a54c5239fb4d0f62f6507c1e2bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_26a92de6a687f13d0324a9b3876957f84043ea94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\incremental-classes\dev19\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ff8a97a822c734494a9d04990919f27064beb19">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10000\instant-run-bootstrap_f0397a66091b07aa01aefdab9646ac164d11a8fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\6ebae463b2d2e37e95559337a6053e6b4f1cdf79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_ac6a0f8e6c85a53b68a599cc240be6639c98353a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\5be4a39817e44f0e34119fe8bb4b6cc31653bb12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_069be9340e5a63913ce2213391cc12f94639afa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\91b8021b00d1768a178cc8135c7f29077497a9fc\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_54bef63f3049e73a388ffcd67ce5a7d9c4c44899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Kasia\.android\build-cache\7e27cc8272f3e900c87f70c6137899c1377dab32\output\jars\libs\infer-annotations-4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
         <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_25c51f7f054c2b3013db65211bdab0b247f4e6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\135a626281bb0ec9b406a7bfd4260f710161b4ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9111e38999fee0b16a1ccd057b779f5b08f330e2">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_44b5985ac27c66ccbc7148fe5476688b2e684925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\eff56c78ff8ccf0df1efb17a2b1b7119210dd3d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3e1faeff72feecd85c4a1ce50cc227de2730d399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\2a949f0b1348838707b6246a8117a21a9e5df5c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_eede19f7044abdd6e350428a69a9b0ee472aa205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\4e3f5a2caf00ce07a980c34623f2aad4e5447a65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_70f01b3056a34cd3b641806362e10ac8191c833e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\7e27cc8272f3e900c87f70c6137899c1377dab32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3613cfa9b2a576a841f202d11474648ee5e2a895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\565fee0f720702809acea00675f9baaa8bc11b70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_8a1ffa0ff171e3064ed1ee31605c88845243d1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\2c3fa8e0e21465eadd98d1361b4dd523d0646924\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_b95e7b43f6747c0ad0340938347cf13c35892905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kasia\.android\build-cache\0df733bd47a66e58872883c4c3e037288b839e93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_c0dc3c423cfec3ff136691877d879f0935fb8fca\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,138 +615,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\35b68a4b124ebf37c3eed1899ac603238e260fd3\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\Kasia\.android\build-cache\15912c8a9f15b496c8992e5eae01ce8251becfc2\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="43579bbbc605c8815aa55ad85d856fb5588250d2">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_21fd527466ac3a3d075a5b663cdb46306687257e\classes.dex" />
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_6db4e31e278170789744014a00704c83170d00fa\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\8a32b33152f23c22481dd84bf52ef8a1a0bd6970\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\Kasia\.android\build-cache\3d4581070c1e6194353e65357c6735cccaf0e6bf\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_13f444384ad8cb8223b964ea2dd598ae03d6b66d\classes.dex" />
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_88ce621d0af448faec8ebdfbf11ca48f577e7395\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\05320db76679fafd58de5b11f057f329af3c1fae\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\Kasia\.android\build-cache\163b9640452071ea2aaf9603c210025356c9326c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="7721fdd1d59c4b8ae136c087b7590ec69061d97f">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_0bd171b23442f8b1f31df20add7c48a033c56dd4\classes.dex" />
+        sha1="906fdd57c143ec9adc27a76a697fed1c0cfd6348">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_526ef72b3edccaaf877dedc425736f0ba737a253\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\8a32b33152f23c22481dd84bf52ef8a1a0bd6970\output\jars\classes.jar"
+        jar="C:\Users\Kasia\.android\build-cache\6a914b03aad5144cfc42e59ac7a98544bf38e9c4\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_310a21920e8281b507d5c92bd84c7642abef7027\classes.dex" />
+        sha1="adfb92acadeeff1086115fff6b318e95df8b2b29">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_22516f7ef20409ab371ab962843542071e008855\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\05320db76679fafd58de5b11f057f329af3c1fae\output\jars\classes.jar"
+        jar="C:\Users\Kasia\.android\build-cache\fa755a5c87b0ca73c3d39251117e430f31fda2e8\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="67b6fa134bb2e2163e293f7ae9b898b985979515">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_00c3efe2606be7d6d0ad215d9cd7aa7e967c5364\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\0cea272748bc0c1c75558dba29be2e2295b62a54\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_f9cbcaa394f0faa477d6c5f7071610a23778e162\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\b6f244bc16fb74f3ea1016de1e6d5ffbc8614ae5\output\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_a426e277eb6cfe1203c8dd14edc763468b497276\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\incremental-runtime-classes\dev19\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10000\instant-run_077a7f00237288c59660515637f8cf9957ced8d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="64cd9f68288a814c311fe2723b68bd91aa241c7b">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3b22d6afda017ee2f54886be30a81bc2df2f5d07\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\1ecc53652c327377453ad2352b2ce94c961ab976\output\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_f35ae50da1f52bd5176861c2a8085f9a84098290\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\7e27cc8272f3e900c87f70c6137899c1377dab32\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_3613cfa9b2a576a841f202d11474648ee5e2a895\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\incremental-classes\dev19\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8994c7074cb29f4132d7767d34d1c042a2bdf6a9">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10000\instant-run-bootstrap_f0397a66091b07aa01aefdab9646ac164d11a8fb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\1ecc53652c327377453ad2352b2ce94c961ab976\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_b8415a97a56a193c6347ac5b65ccc481c099ef89\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\35b68a4b124ebf37c3eed1899ac603238e260fd3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a315c4dce1b163f2ddf71bab62f3b56eb05c6a15">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_a0255125e88fded724ed2436432ebed82e5f4b0a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\6807819bc277b37f43d8e214a1164b3e1b07b19b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="00bffcece869fcc14f8c3fe523a11c6c53356b44">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_7f5b63f6d04a15821c125623442f19d40b4c8fa7\classes.dex" />
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_be3e921f7ea9511be188b6af37b0192281dd2be4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -171,24 +666,6 @@
         revision="26.0.1"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
         <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_078f20bf1e2958f82602035569b81d896a8d62ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\1d295020cf0806e01bcab5d0cf3a02185fcbffbc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ae335c9696bc1513f7e3bb96a731b722712d7a63">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\classes_c35be84e3ed5418b9bcd1a279699bb3fc57adf06\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kasia\.android\build-cache\91b8021b00d1768a178cc8135c7f29077497a9fc\output\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
-        <dex dex="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\transforms\dex\dev19\debug\folders\1000\10\infer-annotations-4.0_54bef63f3049e73a388ffcd67ce5a7d9c4c44899\classes.dex" />
     </item>
 
 </items>

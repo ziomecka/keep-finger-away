@@ -37,12 +37,12 @@ MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Kasia\.android\bui
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:14:3-77
 MERGED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\AndroidManifest.xml:25:5-79
-MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\b4f2e9668d2641556beefc25f391a46317047178\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\fcf5065747feed8cb2ae7f49b6ae1a5d27bc3874\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Kasia\.android\build-cache\0b6a6265d44f0722897a167ca3e2707cf65dc5ce\output\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Kasia\.android\build-cache\bf9d50da178e380d8b440374502838daac27b9cd\output\AndroidManifest.xml:19:5-78
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\f6c974a022c9b9057ed5b27c9bad3292d2241568\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\2ee5a0f09b52581ee0237fd5c68fc49084395245\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Kasia\.android\build-cache\50e269c433e7cc501b2eb659e1b32235c291214f\output\AndroidManifest.xml:19:5-78
@@ -51,19 +51,19 @@ MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Kasia\.android\bui
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:15:3-65
 MERGED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\AndroidManifest.xml:19:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Kasia\.android\build-cache\0a684700d36da2ef2ad0daa8b825ddf12fcb9e36\output\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Kasia\.android\build-cache\df390cb14123ec167867167b9b088504348280b6\output\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Kasia\.android\build-cache\2557fd8cd2aa7f6b26bfb5d2023fb748dd96146e\output\AndroidManifest.xml:9:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Kasia\.android\build-cache\c7fd98f75b44d643eb68110edc066eca3540d81f\output\AndroidManifest.xml:25:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Kasia\.android\build-cache\6594a0d82db1074e243bb24701f364f78e0fd63f\output\AndroidManifest.xml:9:5-67
-MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Kasia\.android\build-cache\2c3fa8e0e21465eadd98d1361b4dd523d0646924\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Kasia\.android\build-cache\3d4581070c1e6194353e65357c6735cccaf0e6bf\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Kasia\.android\build-cache\97893eebef9081434015cc0dd0762da99d06fdd5\output\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Kasia\.android\build-cache\1982c4b4161d4e34a270cad64e24c11b781e1b93\output\AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Kasia\.android\build-cache\a0952da7a134106dc20bd9ee60618a23526cca4a\output\AndroidManifest.xml:9:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Kasia\.android\build-cache\4296ba7b4c3b7c484d4e8f679f6cf1219c6d2825\output\AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Kasia\.android\build-cache\96be6002022a3f0d599a6b43f98396c25b428421\output\AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\b4f2e9668d2641556beefc25f391a46317047178\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\fcf5065747feed8cb2ae7f49b6ae1a5d27bc3874\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Kasia\.android\build-cache\0b6a6265d44f0722897a167ca3e2707cf65dc5ce\output\AndroidManifest.xml:19:5-66
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Kasia\.android\build-cache\bf9d50da178e380d8b440374502838daac27b9cd\output\AndroidManifest.xml:20:5-66
-MERGED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:24:5-67
+MERGED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\f6c974a022c9b9057ed5b27c9bad3292d2241568\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\2ee5a0f09b52581ee0237fd5c68fc49084395245\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Kasia\.android\build-cache\50e269c433e7cc501b2eb659e1b32235c291214f\output\AndroidManifest.xml:20:5-66
@@ -123,13 +123,13 @@ MERGED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-ca
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:29:3-79
 MERGED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\AndroidManifest.xml:37:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:29:20-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:30:3-77
 MERGED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\AndroidManifest.xml:38:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:14:5-79
 	android:name
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:30:20-74
 uses-permission#android.permission.CAMERA
@@ -189,24 +189,24 @@ MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] C:\Users\Kasia\.android\buil
 MERGED from [host.exp:reactandroid-abi23:1.0.0] C:\Users\Kasia\.android\build-cache\1ecc53652c327377453ad2352b2ce94c961ab976\output\AndroidManifest.xml:13:5-20
 MERGED from [host.exp:reactandroid-abi22:1.0.0] C:\Users\Kasia\.android\build-cache\b6f244bc16fb74f3ea1016de1e6d5ffbc8614ae5\output\AndroidManifest.xml:13:5-20
 MERGED from [host.exp:reactandroid-abi21:1.0.0] C:\Users\Kasia\.android\build-cache\91b8021b00d1768a178cc8135c7f29077497a9fc\output\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Kasia\.android\build-cache\0f85d94ca7b07b07a1fb395f12b2e5467794c4f2\output\AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\Kasia\.android\build-cache\20ccd5b9882a32007d73a0ca884bca7ff99761d5\output\AndroidManifest.xml:2:3-17
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Kasia\.android\build-cache\0a684700d36da2ef2ad0daa8b825ddf12fcb9e36\output\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Kasia\.android\build-cache\df390cb14123ec167867167b9b088504348280b6\output\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Kasia\.android\build-cache\2557fd8cd2aa7f6b26bfb5d2023fb748dd96146e\output\AndroidManifest.xml:11:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Kasia\.android\build-cache\c7fd98f75b44d643eb68110edc066eca3540d81f\output\AndroidManifest.xml:27:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Kasia\.android\build-cache\6594a0d82db1074e243bb24701f364f78e0fd63f\output\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Kasia\.android\build-cache\4fa1ccc830bb8442c1fdd2470e6a8c0bcf65390d\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Kasia\.android\build-cache\991fd7f1b10b28d8f03d8297bbddc0cbeb4de879\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Kasia\.android\build-cache\5f0ff66ff307f28c91c124e003f5ffb2cd176a85\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\5476160a55133a882f3495a678b829f99b37ceb0\output\AndroidManifest.xml:28:5-34:19
-MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\badbde4f223092978e0759eddf3e17b27724a6ab\output\AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Kasia\.android\build-cache\f5f9439ac0c70c8acfc52314ffbd45dc474a116e\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Kasia\.android\build-cache\62bc2143f15587a8ba557ace4ccbbbdcf6baf33f\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Kasia\.android\build-cache\2aed777b6115a8a9d38d6bbf5481820728846469\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\e37c62f29fd2ec43bd90331f865b968833ef6adb\output\AndroidManifest.xml:28:5-43:19
-MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:14:5-18:19
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\b37f04a9171d2433f6bda4f409109129cfa61945\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Kasia\.android\build-cache\d8b20c5e4c4c553e9015f3ac9c800a2d4c392061\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Kasia\.android\build-cache\5c3e000fa37b994777e9681fc4b7fd2bbca246c3\output\AndroidManifest.xml:2:3-17
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Kasia\.android\build-cache\2c3fa8e0e21465eadd98d1361b4dd523d0646924\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Kasia\.android\build-cache\3d4581070c1e6194353e65357c6735cccaf0e6bf\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Kasia\.android\build-cache\97893eebef9081434015cc0dd0762da99d06fdd5\output\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Kasia\.android\build-cache\1982c4b4161d4e34a270cad64e24c11b781e1b93\output\AndroidManifest.xml:27:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Kasia\.android\build-cache\a0952da7a134106dc20bd9ee60618a23526cca4a\output\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Kasia\.android\build-cache\4f53d8a6aff80ef867e2ebf1bb01dd907ab4cda8\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Kasia\.android\build-cache\c5c7fec45dfed3f7ce4794e20965ae504758f39d\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Kasia\.android\build-cache\3eaff41682e635507b254c46ecbc15f21bb41fd3\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\e7df01b2496ba567ea82c06fdcabf3b48bf641ae\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Kasia\.android\build-cache\f78efd8365ec0546416e8fb49f0cd65c60f1521f\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Kasia\.android\build-cache\dbfc5634a7d7703b403fd0804398c19e2ce34ab0\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Kasia\.android\build-cache\4e054ea272e4ffaed381c202ff0b3fb276f60dcd\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\99a1c64ddcb6abe8792b5e58b501c22f9c78552e\output\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Kasia\.android\build-cache\4296ba7b4c3b7c484d4e8f679f6cf1219c6d2825\output\AndroidManifest.xml:23:5-19
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Kasia\.android\build-cache\96be6002022a3f0d599a6b43f98396c25b428421\output\AndroidManifest.xml:23:5-19
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\b4f2e9668d2641556beefc25f391a46317047178\output\AndroidManifest.xml:26:5-19
@@ -221,19 +221,19 @@ MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Kasia\.
 MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Kasia\.android\build-cache\9202c7e0124b2a1bcfeac640c7626db6bcb9d3dd\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Kasia\.android\build-cache\bf9d50da178e380d8b440374502838daac27b9cd\output\AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Kasia\.android\build-cache\6d8806b71d2cfc73595962a4496c43c26f200dbb\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.raizlabs.android:DBFlow:2.2.1] C:\Users\Kasia\.android\build-cache\ebed8511daca1a7a547b4fd079b8f46874bd826a\output\AndroidManifest.xml:11:5-20
-MERGED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:26:5-44:19
-MERGED from [com.android.support:customtabs:26.0.1] C:\Users\Kasia\.android\build-cache\ded3858d009fd4051cc5aaace92eb33c6093a1c8\output\AndroidManifest.xml:22:5-26:19
-MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\Kasia\.android\build-cache\0ccc7f84d7dac7545ed914e7603eb75dc4e9eb94\output\AndroidManifest.xml:10:5-20
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\Kasia\.android\build-cache\b9cf996b737f907895c8a624ef647cd01aa3348d\output\AndroidManifest.xml:11:5-20
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:18:5-28:19
-MERGED from [com.android.support:exifinterface:26.0.1] C:\Users\Kasia\.android\build-cache\d7ceed00af81202c6a10cd5e5f4e4a6675d30c65\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] C:\Users\Kasia\.android\build-cache\d3547e4f957b24b20146e578498bdb2ed6216463\output\AndroidManifest.xml:11:5-20
+MERGED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:26:5-44:19
+MERGED from [com.android.support:customtabs:26.0.1] C:\Users\Kasia\.android\build-cache\163b9640452071ea2aaf9603c210025356c9326c\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\Kasia\.android\build-cache\7b0437d767c56fd2a2e1b5c99b2130fcd2ad6179\output\AndroidManifest.xml:10:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\Kasia\.android\build-cache\3c59e6b6ea213152145856e30322b31bfa591126\output\AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:18:5-28:19
+MERGED from [com.android.support:exifinterface:26.0.1] C:\Users\Kasia\.android\build-cache\b80897957f4e974c8ce6e5a37e1134a6bb213b42\output\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android:cameraview:1.0.0] C:\Users\Kasia\.android\build-cache\1d295020cf0806e01bcab5d0cf3a02185fcbffbc\output\AndroidManifest.xml:32:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\1cc71bbdf36f9e09fc29ba162f750916a29fb5b9\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\a824998bb3daea82bd905e3b0dd235a40ee5971c\output\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\0d6f9737a7e260a2fba03ca3a7019c7aff1a7193\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\4ecd65af6d3002399049d6408834cd4fe4a010ab\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\eff56c78ff8ccf0df1efb17a2b1b7119210dd3d9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\748f16410073cf46c5b4a00e837796943a349ae1\output\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Kasia\.android\build-cache\aeddedd5f6c458444ef5d7431738c383c2293801\output\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\e0ad658fb23bcc54c8e949aaf0d86db640aee6f0\output\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\565fee0f720702809acea00675f9baaa8bc11b70\output\AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Kasia\.android\build-cache\0f66343bfb191b01366801b2965e8a3585b9de03\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\f6c974a022c9b9057ed5b27c9bad3292d2241568\output\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\2ee5a0f09b52581ee0237fd5c68fc49084395245\output\AndroidManifest.xml:24:5-28:19
@@ -241,16 +241,16 @@ MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Kasia\.android\bui
 MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Kasia\.android\build-cache\707511f1ffbe1872bb3fcf92a5c0892fe9e180d4\output\AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Kasia\.android\build-cache\6c478047354f01d6cb9dec271065fc03f6349547\output\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Kasia\.android\build-cache\f36c527beded56b2ca059f633639e189989d6659\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Kasia\.android\build-cache\34590d473b00db939cdbcafff83b26ddfb3df9e5\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Kasia\.android\build-cache\6a25bb09fa1f28a063535e591c13a793606aac96\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Kasia\.android\build-cache\ba1ce3cdaa4043550aeec2728fe242567b525dce\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Kasia\.android\build-cache\c93eb85725dd5d36062507ff366c341f02126ec8\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Kasia\.android\build-cache\88089d122fe644579c783461c62d60a9fb8cdb60\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Kasia\.android\build-cache\f6a333ddf193d86a11b708c7ffec8114a9ef0831\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Kasia\.android\build-cache\0df733bd47a66e58872883c4c3e037288b839e93\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Kasia\.android\build-cache\0d2231638fcfd2153e2375e6fd0af8d463acad32\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Kasia\.android\build-cache\5be4a39817e44f0e34119fe8bb4b6cc31653bb12\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Kasia\.android\build-cache\fa755a5c87b0ca73c3d39251117e430f31fda2e8\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Kasia\.android\build-cache\6ebae463b2d2e37e95559337a6053e6b4f1cdf79\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Kasia\.android\build-cache\18ad7391b198c87a992d7df17a25a322f33bb525\output\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:49:5-37
 	android:supportsRtl
-		ADDED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Kasia\.android\build-cache\4fa1ccc830bb8442c1fdd2470e6a8c0bcf65390d\output\AndroidManifest.xml:28:18-44
+		ADDED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Kasia\.android\build-cache\4f53d8a6aff80ef867e2ebf1bb01dd907ab4cda8\output\AndroidManifest.xml:28:18-44
 	android:allowBackup
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:47:5-31
 	android:icon
@@ -399,7 +399,7 @@ ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\a
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:125:7-49
 activity#net.openid.appauth.RedirectUriReceiverActivity
 ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:130:5-139:16
-REJECTED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:32:9-43:20
+REJECTED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:32:9-43:20
 	tools:node
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:132:9-29
 	android:name
@@ -430,14 +430,14 @@ ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\a
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:156:7-46
 activity#com.facebook.FacebookActivity
 ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:161:5-166:39
-MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\5476160a55133a882f3495a678b829f99b37ceb0\output\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\AndroidManifest.xml:29:9-32:66
 	android:label
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:164:7-39
 	android:configChanges
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:163:7-90
 	android:theme
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:165:7-66
-		REJECTED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\5476160a55133a882f3495a678b829f99b37ceb0\output\AndroidManifest.xml:32:13-63
+		REJECTED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\AndroidManifest.xml:32:13-63
 	tools:replace
 		ADDED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml:166:7-36
 	android:name
@@ -567,7 +567,7 @@ INJECTED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\androi
 MERGED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\Kasia\.android\build-cache\503c1851ad3fa67b54e49a69756ceb66d8544559\output\AndroidManifest.xml:18:5-42
 MERGED from [com.facebook.react:react-native:27.0.0] C:\Users\Kasia\.android\build-cache\6807819bc277b37f43d8e214a1164b3e1b07b19b\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] C:\Users\Kasia\.android\build-cache\0555c7c8be9a369f2ef35fc24f1d017671ae926e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] C:\Users\Kasia\.android\build-cache\370f0143733942d55f859370c94bf9c83fee4b86\output\AndroidManifest.xml:5:5-7:41
 MERGED from [host.exp:reactandroid-abi27_0_0:1.0.0] C:\Users\Kasia\.android\build-cache\05320db76679fafd58de5b11f057f329af3c1fae\output\AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp:reactandroid-abi26_0_0:1.0.0] C:\Users\Kasia\.android\build-cache\35b68a4b124ebf37c3eed1899ac603238e260fd3\output\AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp:reactandroid-abi25_0_0:1.0.0] C:\Users\Kasia\.android\build-cache\7e27cc8272f3e900c87f70c6137899c1377dab32\output\AndroidManifest.xml:7:5-9:41
@@ -575,35 +575,35 @@ MERGED from [host.exp:reactandroid-abi24_0_0:1.0.0] C:\Users\Kasia\.android\buil
 MERGED from [host.exp:reactandroid-abi23:1.0.0] C:\Users\Kasia\.android\build-cache\1ecc53652c327377453ad2352b2ce94c961ab976\output\AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp:reactandroid-abi22:1.0.0] C:\Users\Kasia\.android\build-cache\b6f244bc16fb74f3ea1016de1e6d5ffbc8614ae5\output\AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp:reactandroid-abi21:1.0.0] C:\Users\Kasia\.android\build-cache\91b8021b00d1768a178cc8135c7f29077497a9fc\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Kasia\.android\build-cache\01689ee3c7563cac4534f5e6e70d4025849c69e8\output\AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.0.1] C:\Users\Kasia\.android\build-cache\4f7101c7f5bb40341538b93d8ba6e4c0948a4202\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.0.1] C:\Users\Kasia\.android\build-cache\bb4b0c40d447f502286b9f4fa82a347ac2ce4718\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-gif:1.0.1] C:\Users\Kasia\.android\build-cache\6c6b1b53dbb10e282bf617371ead1dc839032d47\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-webp:1.0.1] C:\Users\Kasia\.android\build-cache\0dab36e36f377a284d3dc8e5cddffda875f467ac\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-base:1.0.1] C:\Users\Kasia\.android\build-cache\20d462c0d81b90a6965eb83b1b2e4599fab17f2c\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.0.1] C:\Users\Kasia\.android\build-cache\448907682fe3ddc6b41ed2b4f3c57034d87eff03\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:webpsupport:1.0.1] C:\Users\Kasia\.android\build-cache\db8eb3e3897d5af4407523613c4d68e69eed9a7e\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] C:\Users\Kasia\.android\build-cache\da62017ee1bee8e43ddbe5f04b6568339df68ef1\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.0.1] C:\Users\Kasia\.android\build-cache\db412e3c6044d3daeb725be56d036b9e2a420306\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Kasia\.android\build-cache\4a65067ce9912672799b58046fd04dcd30b201a4\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] C:\Users\Kasia\.android\build-cache\0159a9b6e2d61787e1561cdc50adafcdd13f956a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] C:\Users\Kasia\.android\build-cache\096df4ff13c4c5a7060e6503c3f0da971fbf2b70\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.0.1] C:\Users\Kasia\.android\build-cache\cf7e4bb98eaf57c8ee7e9700bba342a2da653208\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.0.1] C:\Users\Kasia\.android\build-cache\6a914b03aad5144cfc42e59ac7a98544bf38e9c4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.0.1] C:\Users\Kasia\.android\build-cache\c49f339d5e68f3277ff06ec8872347c01a460f7a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] C:\Users\Kasia\.android\build-cache\b8beafb4d46f0c55ff0ed42fe282bb365864c1c1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.0.1] C:\Users\Kasia\.android\build-cache\b595133ddc31a58b288025751d3fc5fcb0515444\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] C:\Users\Kasia\.android\build-cache\342de9f80733c2bd3c181a4b7abb201f3b25f9f3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] C:\Users\Kasia\.android\build-cache\4e3f5a2caf00ce07a980c34623f2aad4e5447a65\output\AndroidManifest.xml:5:5-7:41
 MERGED from [expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3:1.0.1] C:\Users\Kasia\.android\build-cache\0cea272748bc0c1c75558dba29be2e2295b62a54\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Kasia\.android\build-cache\0f85d94ca7b07b07a1fb395f12b2e5467794c4f2\output\AndroidManifest.xml:2:3-70
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Kasia\.android\build-cache\0a684700d36da2ef2ad0daa8b825ddf12fcb9e36\output\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Kasia\.android\build-cache\df390cb14123ec167867167b9b088504348280b6\output\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Kasia\.android\build-cache\2557fd8cd2aa7f6b26bfb5d2023fb748dd96146e\output\AndroidManifest.xml:7:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Kasia\.android\build-cache\c7fd98f75b44d643eb68110edc066eca3540d81f\output\AndroidManifest.xml:23:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Kasia\.android\build-cache\6594a0d82db1074e243bb24701f364f78e0fd63f\output\AndroidManifest.xml:7:5-43
-MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Kasia\.android\build-cache\4fa1ccc830bb8442c1fdd2470e6a8c0bcf65390d\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Kasia\.android\build-cache\991fd7f1b10b28d8f03d8297bbddc0cbeb4de879\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Kasia\.android\build-cache\5f0ff66ff307f28c91c124e003f5ffb2cd176a85\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\5476160a55133a882f3495a678b829f99b37ceb0\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\badbde4f223092978e0759eddf3e17b27724a6ab\output\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Kasia\.android\build-cache\f5f9439ac0c70c8acfc52314ffbd45dc474a116e\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Kasia\.android\build-cache\62bc2143f15587a8ba557ace4ccbbbdcf6baf33f\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Kasia\.android\build-cache\2aed777b6115a8a9d38d6bbf5481820728846469\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\e37c62f29fd2ec43bd90331f865b968833ef6adb\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\b37f04a9171d2433f6bda4f409109129cfa61945\output\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer:r2.0.3] C:\Users\Kasia\.android\build-cache\85acf69df2b6feeb81726ad0ac7226b3b7ccc816\output\AndroidManifest.xml:21:5-23:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Kasia\.android\build-cache\d8b20c5e4c4c553e9015f3ac9c800a2d4c392061\output\AndroidManifest.xml:2:3-70
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Kasia\.android\build-cache\2c3fa8e0e21465eadd98d1361b4dd523d0646924\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Kasia\.android\build-cache\3d4581070c1e6194353e65357c6735cccaf0e6bf\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Kasia\.android\build-cache\97893eebef9081434015cc0dd0762da99d06fdd5\output\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Kasia\.android\build-cache\1982c4b4161d4e34a270cad64e24c11b781e1b93\output\AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Kasia\.android\build-cache\a0952da7a134106dc20bd9ee60618a23526cca4a\output\AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Kasia\.android\build-cache\4f53d8a6aff80ef867e2ebf1bb01dd907ab4cda8\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Kasia\.android\build-cache\c5c7fec45dfed3f7ce4794e20965ae504758f39d\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Kasia\.android\build-cache\3eaff41682e635507b254c46ecbc15f21bb41fd3\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\e7df01b2496ba567ea82c06fdcabf3b48bf641ae\output\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Kasia\.android\build-cache\f78efd8365ec0546416e8fb49f0cd65c60f1521f\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Kasia\.android\build-cache\dbfc5634a7d7703b403fd0804398c19e2ce34ab0\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Kasia\.android\build-cache\4e054ea272e4ffaed381c202ff0b3fb276f60dcd\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\99a1c64ddcb6abe8792b5e58b501c22f9c78552e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r2.0.3] C:\Users\Kasia\.android\build-cache\15912c8a9f15b496c8992e5eae01ce8251becfc2\output\AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Kasia\.android\build-cache\4296ba7b4c3b7c484d4e8f679f6cf1219c6d2825\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Kasia\.android\build-cache\96be6002022a3f0d599a6b43f98396c25b428421\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\b4f2e9668d2641556beefc25f391a46317047178\output\AndroidManifest.xml:17:5-42
@@ -621,25 +621,25 @@ MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Kasia\.
 MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Kasia\.android\build-cache\9202c7e0124b2a1bcfeac640c7626db6bcb9d3dd\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Kasia\.android\build-cache\bf9d50da178e380d8b440374502838daac27b9cd\output\AndroidManifest.xml:23:5-42
 MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Kasia\.android\build-cache\6d8806b71d2cfc73595962a4496c43c26f200dbb\output\AndroidManifest.xml:17:5-42
-MERGED from [com.stripe:stripe-android:2.1.0] C:\Users\Kasia\.android\build-cache\a3b884110e2917811883a62942aec6aac08e90e9\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] C:\Users\Kasia\.android\build-cache\fe909baa99c29652108f381dafc27d00d15c19f0\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.raizlabs.android:DBFlow:2.2.1] C:\Users\Kasia\.android\build-cache\ebed8511daca1a7a547b4fd079b8f46874bd826a\output\AndroidManifest.xml:7:5-9:41
-MERGED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\Kasia\.android\build-cache\214ba5fdb731db4eab2cccf08eb7d0d394a79b23\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\Kasia\.android\build-cache\868bac707c5fbfff0d468c603f15429049982837\output\AndroidManifest.xml:8:5-10:41
-MERGED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support:customtabs:26.0.1] C:\Users\Kasia\.android\build-cache\ded3858d009fd4051cc5aaace92eb33c6093a1c8\output\AndroidManifest.xml:20:5-44
-MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\Kasia\.android\build-cache\0ccc7f84d7dac7545ed914e7603eb75dc4e9eb94\output\AndroidManifest.xml:6:5-8:41
-MERGED from [io.branch.sdk.android:library:2.6.1] C:\Users\Kasia\.android\build-cache\463ad367caeddcf9e81e5ba52209fa471a9a32cb\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\Kasia\.android\build-cache\b9cf996b737f907895c8a624ef647cd01aa3348d\output\AndroidManifest.xml:7:5-9:41
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:exifinterface:26.0.1] C:\Users\Kasia\.android\build-cache\d7ceed00af81202c6a10cd5e5f4e4a6675d30c65\output\AndroidManifest.xml:20:5-44
+MERGED from [com.stripe:stripe-android:2.1.0] C:\Users\Kasia\.android\build-cache\f98f549ddd8669db0ab09b2d8059126ff182fc47\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.thefuntasty:CreditCardEntry:1.4.8.4] C:\Users\Kasia\.android\build-cache\135a626281bb0ec9b406a7bfd4260f710161b4ca\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.raizlabs.android:DBFlow:2.2.1] C:\Users\Kasia\.android\build-cache\d3547e4f957b24b20146e578498bdb2ed6216463\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\Kasia\.android\build-cache\2a949f0b1348838707b6246a8117a21a9e5df5c4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\Kasia\.android\build-cache\f984b0406f7314b388eaf0d647a6bcafdfff576e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:customtabs:26.0.1] C:\Users\Kasia\.android\build-cache\163b9640452071ea2aaf9603c210025356c9326c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\Kasia\.android\build-cache\7b0437d767c56fd2a2e1b5c99b2130fcd2ad6179\output\AndroidManifest.xml:6:5-8:41
+MERGED from [io.branch.sdk.android:library:2.6.1] C:\Users\Kasia\.android\build-cache\a5c95a3419c8faff454e90623d4d0a89f22d97c1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\Kasia\.android\build-cache\3c59e6b6ea213152145856e30322b31bfa591126\output\AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:26.0.1] C:\Users\Kasia\.android\build-cache\b80897957f4e974c8ce6e5a37e1134a6bb213b42\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android:cameraview:1.0.0] C:\Users\Kasia\.android\build-cache\1d295020cf0806e01bcab5d0cf3a02185fcbffbc\output\AndroidManifest.xml:19:5-21:41
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\1cc71bbdf36f9e09fc29ba162f750916a29fb5b9\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\a824998bb3daea82bd905e3b0dd235a40ee5971c\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\0d6f9737a7e260a2fba03ca3a7019c7aff1a7193\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\4ecd65af6d3002399049d6408834cd4fe4a010ab\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\eff56c78ff8ccf0df1efb17a2b1b7119210dd3d9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\748f16410073cf46c5b4a00e837796943a349ae1\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Kasia\.android\build-cache\aeddedd5f6c458444ef5d7431738c383c2293801\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\e0ad658fb23bcc54c8e949aaf0d86db640aee6f0\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\565fee0f720702809acea00675f9baaa8bc11b70\output\AndroidManifest.xml:5:5-43
 MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Kasia\.android\build-cache\0f66343bfb191b01366801b2965e8a3585b9de03\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\f6c974a022c9b9057ed5b27c9bad3292d2241568\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\2ee5a0f09b52581ee0237fd5c68fc49084395245\output\AndroidManifest.xml:17:5-42
@@ -647,15 +647,15 @@ MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Kasia\.android\bui
 MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Kasia\.android\build-cache\707511f1ffbe1872bb3fcf92a5c0892fe9e180d4\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Kasia\.android\build-cache\6c478047354f01d6cb9dec271065fc03f6349547\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Kasia\.android\build-cache\f36c527beded56b2ca059f633639e189989d6659\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Kasia\.android\build-cache\34590d473b00db939cdbcafff83b26ddfb3df9e5\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Kasia\.android\build-cache\6a25bb09fa1f28a063535e591c13a793606aac96\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Kasia\.android\build-cache\ba1ce3cdaa4043550aeec2728fe242567b525dce\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Kasia\.android\build-cache\c93eb85725dd5d36062507ff366c341f02126ec8\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Kasia\.android\build-cache\88089d122fe644579c783461c62d60a9fb8cdb60\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Kasia\.android\build-cache\f6a333ddf193d86a11b708c7ffec8114a9ef0831\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] C:\Users\Kasia\.android\build-cache\8a856880b208de71be0b54c2cd2f6a696bd308ef\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Kasia\.android\build-cache\0df733bd47a66e58872883c4c3e037288b839e93\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Kasia\.android\build-cache\0d2231638fcfd2153e2375e6fd0af8d463acad32\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Kasia\.android\build-cache\5be4a39817e44f0e34119fe8bb4b6cc31653bb12\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Kasia\.android\build-cache\fa755a5c87b0ca73c3d39251117e430f31fda2e8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Kasia\.android\build-cache\6ebae463b2d2e37e95559337a6053e6b4f1cdf79\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Kasia\.android\build-cache\18ad7391b198c87a992d7df17a25a322f33bb525\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] C:\Users\Kasia\.android\build-cache\62937a44300921704916214d5f36bf3a00d3157a\output\AndroidManifest.xml:20:5-22:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\1cc71bbdf36f9e09fc29ba162f750916a29fb5b9\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\4ecd65af6d3002399049d6408834cd4fe4a010ab\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\src\main\AndroidManifest.xml
@@ -757,41 +757,41 @@ ADDED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cac
 	android:name
 		ADDED from [host.exp.exponent:expoview:27.0.0] C:\Users\Kasia\.android\build-cache\92897e0e8055bbbd04ec17e17a127fa64d413444\output\AndroidManifest.xml:81:17-67
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\5476160a55133a882f3495a678b829f99b37ceb0\output\AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\5476160a55133a882f3495a678b829f99b37ceb0\output\AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Kasia\.android\build-cache\c82ac248336c426d177481b3e724ef985847a04f\output\AndroidManifest.xml:33:19-68
 meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\badbde4f223092978e0759eddf3e17b27724a6ab\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\b37f04a9171d2433f6bda4f409109129cfa61945\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.0.1] C:\Users\Kasia\.android\build-cache\ded3858d009fd4051cc5aaace92eb33c6093a1c8\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:exifinterface:26.0.1] C:\Users\Kasia\.android\build-cache\d7ceed00af81202c6a10cd5e5f4e4a6675d30c65\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\1cc71bbdf36f9e09fc29ba162f750916a29fb5b9\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\a824998bb3daea82bd905e3b0dd235a40ee5971c\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\0d6f9737a7e260a2fba03ca3a7019c7aff1a7193\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Kasia\.android\build-cache\34590d473b00db939cdbcafff83b26ddfb3df9e5\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Kasia\.android\build-cache\6a25bb09fa1f28a063535e591c13a793606aac96\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Kasia\.android\build-cache\ba1ce3cdaa4043550aeec2728fe242567b525dce\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Kasia\.android\build-cache\c93eb85725dd5d36062507ff366c341f02126ec8\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Kasia\.android\build-cache\88089d122fe644579c783461c62d60a9fb8cdb60\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Kasia\.android\build-cache\f6a333ddf193d86a11b708c7ffec8114a9ef0831\output\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\e7df01b2496ba567ea82c06fdcabf3b48bf641ae\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\99a1c64ddcb6abe8792b5e58b501c22f9c78552e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.0.1] C:\Users\Kasia\.android\build-cache\163b9640452071ea2aaf9603c210025356c9326c\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.0.1] C:\Users\Kasia\.android\build-cache\b80897957f4e974c8ce6e5a37e1134a6bb213b42\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Kasia\.android\build-cache\4ecd65af6d3002399049d6408834cd4fe4a010ab\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\eff56c78ff8ccf0df1efb17a2b1b7119210dd3d9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Kasia\.android\build-cache\748f16410073cf46c5b4a00e837796943a349ae1\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Kasia\.android\build-cache\0df733bd47a66e58872883c4c3e037288b839e93\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Kasia\.android\build-cache\0d2231638fcfd2153e2375e6fd0af8d463acad32\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Kasia\.android\build-cache\5be4a39817e44f0e34119fe8bb4b6cc31653bb12\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Kasia\.android\build-cache\fa755a5c87b0ca73c3d39251117e430f31fda2e8\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Kasia\.android\build-cache\6ebae463b2d2e37e95559337a6053e6b4f1cdf79\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Kasia\.android\build-cache\18ad7391b198c87a992d7df17a25a322f33bb525\output\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\badbde4f223092978e0759eddf3e17b27724a6ab\output\AndroidManifest.xml:25:13-35
+		ADDED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\e7df01b2496ba567ea82c06fdcabf3b48bf641ae\output\AndroidManifest.xml:25:13-35
 	android:name
-		ADDED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\badbde4f223092978e0759eddf3e17b27724a6ab\output\AndroidManifest.xml:24:13-51
+		ADDED from [com.android.support:cardview-v7:26.0.1] C:\Users\Kasia\.android\build-cache\e7df01b2496ba567ea82c06fdcabf3b48bf641ae\output\AndroidManifest.xml:24:13-51
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\e37c62f29fd2ec43bd90331f865b968833ef6adb\output\AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\e37c62f29fd2ec43bd90331f865b968833ef6adb\output\AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\e37c62f29fd2ec43bd90331f865b968833ef6adb\output\AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\e37c62f29fd2ec43bd90331f865b968833ef6adb\output\AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Kasia\.android\build-cache\1252783feaa3587f1f6c6c4ab5d3b06367bacd9f\output\AndroidManifest.xml:40:13-70
 activity#com.facebook.ads.AudienceNetworkActivity
-ADDED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:15:9-17:77
+ADDED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:15:9-17:77
 	android:configChanges
-		ADDED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:17:13-74
+		ADDED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:17:13-74
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\2ce33f811ba37b756e6395a8f106cfd999e78c88\output\AndroidManifest.xml:16:13-68
+		ADDED from [com.facebook.android:audience-network-sdk:4.26.1] C:\Users\Kasia\.android\build-cache\bed89169f09f4ae9ad03a2be20411a32e648bd04\output\AndroidManifest.xml:16:13-68
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Kasia\.android\build-cache\5d9f8c985881434d9b6da835469513cc3b6d2d65\output\AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
@@ -833,69 +833,69 @@ ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Kasia\.and
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Kasia\.android\build-cache\6d8806b71d2cfc73595962a4496c43c26f200dbb\output\AndroidManifest.xml:19:19-85
 uses-permission#com.sec.android.provider.badge.permission.READ
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:19:5-86
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:19:5-86
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:19:22-83
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:19:22-83
 uses-permission#com.sec.android.provider.badge.permission.WRITE
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:20:5-87
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:20:5-87
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:20:22-84
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:20:22-84
 uses-permission#com.htc.launcher.permission.READ_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:23:5-81
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:23:5-81
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:23:22-78
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:23:22-78
 uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:24:5-83
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:24:5-83
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:24:22-80
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:24:22-80
 uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:27:5-88
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:27:5-88
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:27:22-85
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:27:22-85
 uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:30:5-84
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:30:5-84
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:30:22-81
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:30:22-81
 uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:33:5-83
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:33:5-83
 	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\4ed1f64a7f8c0a266374cb56efff261c3d94adea\output\AndroidManifest.xml:33:22-80
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\Users\Kasia\.android\build-cache\e4dc200bb5c40e4321e9ed4b11b61df4685010fa\output\AndroidManifest.xml:33:22-80
 activity#net.openid.appauth.AuthorizationManagementActivity
-ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:27:9-31:75
+ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:27:9-31:75
 	android:launchMode
-		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:30:13-44
+		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:30:13-44
 	android:exported
-		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:29:13-37
+		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:29:13-37
 	android:theme
-		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:31:13-72
+		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:31:13-72
 	android:name
-		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\66a4742bb5397f35473d4227969bffeaa9c30442\output\AndroidManifest.xml:28:13-78
+		ADDED from [net.openid:appauth:0.4.1] C:\Users\Kasia\.android\build-cache\ca0fe36e3f81753d9888bc8667422fbd4079b8b2\output\AndroidManifest.xml:28:13-78
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:15:5-98
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:15:5-98
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:15:22-95
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:15:22-95
 uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
-ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:16:5-94
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:16:5-94
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:16:22-91
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:16:22-91
 service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:19:9-21:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:21:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:20:13-132
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:20:13-132
 service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:22:9-24:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:24:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:23:13-127
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:23:13-127
 service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:25:9-27:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:27:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\4d9d341d296cd25bcb8f73ef74954ee906846c9d\output\AndroidManifest.xml:26:13-120
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\Kasia\.android\build-cache\56d6a52acd9d9e7f03d4fce772882b0364168c5b\output\AndroidManifest.xml:26:13-120
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Kasia\.android\build-cache\aeddedd5f6c458444ef5d7431738c383c2293801\output\AndroidManifest.xml:23:9-27:19
 	android:exported
@@ -911,12 +911,12 @@ ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Kasia\.androi
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Kasia\.android\build-cache\aeddedd5f6c458444ef5d7431738c383c2293801\output\AndroidManifest.xml:25:25-75
 meta-data#com.google.android.gms.version
-ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\e0ad658fb23bcc54c8e949aaf0d86db640aee6f0\output\AndroidManifest.xml:8:9-10:69
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\565fee0f720702809acea00675f9baaa8bc11b70\output\AndroidManifest.xml:8:9-10:69
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Kasia\.android\build-cache\f36c527beded56b2ca059f633639e189989d6659\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\e0ad658fb23bcc54c8e949aaf0d86db640aee6f0\output\AndroidManifest.xml:10:13-66
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\565fee0f720702809acea00675f9baaa8bc11b70\output\AndroidManifest.xml:10:13-66
 	android:name
-		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\e0ad658fb23bcc54c8e949aaf0d86db640aee6f0\output\AndroidManifest.xml:9:13-58
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Kasia\.android\build-cache\565fee0f720702809acea00675f9baaa8bc11b70\output\AndroidManifest.xml:9:13-58
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
 ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Kasia\.android\build-cache\f6c974a022c9b9057ed5b27c9bad3292d2241568\output\AndroidManifest.xml:25:7-26:18
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Kasia\.android\build-cache\2ee5a0f09b52581ee0237fd5c68fc49084395245\output\AndroidManifest.xml:25:7-26:18

@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="25"
+    abi="x86"
+    api-level="28"
     build-mode="FULL"
-    density="xxxhdpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1536673297379"
+    timestamp="1536678028464"
     token="-2496603728825331860"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="11747" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="9055" />
+        duration="13446" />
     <task
         name="verifier"
-        duration="4148" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\dep\dependencies.apk"
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\outputs\apk\app-dev19-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_1.apk"
@@ -36,13 +48,7 @@
         location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_7.apk"
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_5.apk"
@@ -51,24 +57,30 @@
         location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_8.apk"
+        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_7.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\outputs\apk\app-dev19-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1536673297379"
+        timestamp="1536678028464"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\dep\dependencies.apk"
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\outputs\apk\app-dev19-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_1.apk"
@@ -77,13 +89,7 @@
             location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_7.apk"
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_5.apk"
@@ -92,14 +98,8 @@
             location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_8.apk"
+            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_7.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\intermediates\split-apk\dev19\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Kasia\Documents\Prywatne\Projekty\keep-finger-away\android\app\build\outputs\apk\app-dev19-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
